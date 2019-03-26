@@ -1,0 +1,10 @@
+OKFFB / OKF / OKFF      - Oberkante Fertigfußboden
+OKRFB / OKRF            - Oberkante Rohfußboden
+OKRD                    - Oberkante Rohdecke
+OKGEL / OKGEL           - Oberkante Gelände
+
+
+UKFFB / UKRFB / UKRD    - Unterkante *
+
+
+Pläne teils veraltet!
